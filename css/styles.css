@@ -38,6 +38,7 @@ body {
   color: var(--fourth-text-color);
 }
 .header-studio {
+  color: var(--main-background-color);
 }
 .header-list {
 }
